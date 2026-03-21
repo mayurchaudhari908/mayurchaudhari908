@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 CSE Data Science Student | 💻 Web Developer | 🔌 Electronics Enthusiast<br>Turning ideas into functional, user-friendly projects. Always learning, always building.
+🚀 B.tech Computer Engineering Student | 💻 Web Developer | 📈 Data Scientist |🔌 Electronics Enthusiast<br>Turning ideas into functional, user-friendly projects. Always learning, always building.
 
 
 ## 🌐 Socials:
