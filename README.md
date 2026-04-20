@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🚀 B.tech Computer Engineering Student | 💻 Web Developer | 📈 Data Scientist |🔌 Electronics Enthusiast<br>Turning ideas into functional, user-friendly projects. Always learning, always building.
 
 
